@@ -3,4 +3,4 @@ description: "Deploy my website to GitHub Pages"
 
 runs:
   using: "node20"
-  main: "index.js"
+  main: "dist/index.js"
