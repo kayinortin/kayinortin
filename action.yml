@@ -1,0 +1,6 @@
+name: "Website GitHub Action Pages Deploy"
+description: "Deploy my website to GitHub Pages"
+
+runs:
+  using: "node20"
+  main: "index.js"

@@ -5,9 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: read
-    name: Update Blog Outline
+    name: Updates Blog Outline
     steps:
-      -uses: actions/checkout@v3
-      -name: Update Blog Outline
-      uses: kayinortin/website@main
+      - uses: actions/checkout@v3
+      - name: Updates Blog Outline
+        uses: kayinortin/website@main
