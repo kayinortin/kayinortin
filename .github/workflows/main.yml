@@ -1,0 +1,13 @@
+on: [push]
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: read
+    name: Update Blog Outline
+    steps:
+      -uses: actions/checkout@v3
+      -name: Update Blog Outline
+      uses: kayinortin/website@main
