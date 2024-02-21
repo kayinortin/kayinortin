@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **web technology** & developing my own website
 
-- 📝 I regularly write articles on [my website](https://wei-docusaurus-vercel.vercel.app/docs/intro) and [medium post](https://medium.com/@weiyun0912)
-
 - 📫 How to reach me **edison@yenteli.com**
 
 - 📓 CakeResume：https://www.cakeresume.com/edison-li-747b52
