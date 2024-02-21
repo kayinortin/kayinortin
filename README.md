@@ -2,7 +2,7 @@
 
 - 💻 [My First Side Project](https://coffseeker.yenteli.com/)
 
-- 🎥 [My Second Side Project](https://hsinru.com.tw)
+- 💻 [My Second Side Project](https://hsinru.com.tw)
 
 - 🌱 I’m currently learning **web technology** & developing my own website
 
