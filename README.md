@@ -20,9 +20,7 @@
 
 <h2 align="center">📓 Todo </h2>
 
-- [x] TypeScript
-- [x] React Native
-- [x] TypeScript + ZOD
+- [x] ZOD
 - [x] Github Action Auto Update README.md
 
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
@@ -65,9 +63,15 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript" />
   <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue.js" />
+  <img alt="vuetify" src="https://img.shields.io/badge/vuetify-323330?style=for-the-badge&logo=vuetify" />
+  <img alt="Vuex" src="https://img.shields.io/badge/Vuex-20232A?style=for-the-badge&logo=vue.js" />
+  <img alt="Pinia" src="https://img.shields.io/badge/Vuex-20232A?style=for-the-badge&logo=vue.js" />
   <img alt="React MUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -80,6 +84,13 @@
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="GithubPage" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/google_cloud-323330?style=for-the-badge&logo=googlecloud" />
+  <img alt="AWS" src="https://img.shields.io/badge/amazon_ec2-323330?style=for-the-badge&logo=amazonec2" />
+  <img alt="AWS" src="https://img.shields.io/badge/amazon_ecs-323330?style=for-the-badge&logo=amazonecs" />
+  <img alt="AWS" src="https://img.shields.io/badge/amazon_s3-323330?style=for-the-badge&logo=amazons3" />
+  <img alt="AWS" src="https://img.shields.io/badge/amazon_route_53-323330?style=for-the-badge&logo=amazonroute53" />
+  <img alt="AWS" src="https://img.shields.io/badge/amazon_web_services-323330?style=for-the-badge&logo=amazonwebservices" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-323330?style=for-the-badge&logo=docker" />
 </p>
 
 <h2 align="center">🏆 My Github Trophy:</h2>
