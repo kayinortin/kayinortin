@@ -71,7 +71,6 @@
   <img alt="Vue" src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue.js" />
   <img alt="vuetify" src="https://img.shields.io/badge/vuetify-323330?style=for-the-badge&logo=vuetify" />
   <img alt="Vuex" src="https://img.shields.io/badge/Vuex-20232A?style=for-the-badge&logo=vue.js" />
-  <img alt="Pinia" src="https://img.shields.io/badge/Vuex-20232A?style=for-the-badge&logo=vue.js" />
   <img alt="React MUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
