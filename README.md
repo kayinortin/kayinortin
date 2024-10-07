@@ -1,14 +1,6 @@
 <h1 align="center">Hello 👋, I'm Edison Lee<br><br> <img src="https://komarev.com/ghpvc/?username=kayinortin&style=for-the-badge"> </h1>
 
-- 💻 [My First Side Project](https://coffseeker.yenteli.com/)
-
-- 💻 [My Second Side Project](https://hsinru.com.tw)
-
-- 🌱 I’m currently learning **web technology** & developing my own website
-
 - 📫 How to reach me **edison@yenteli.com**
-
-- 📓 CakeResume：https://www.cakeresume.com/edison-li-747b52
 
 <h2 align="center">CodeWar</h2>
 
@@ -20,7 +12,7 @@
 
 <h2 align="center">📓 Todo </h2>
 
-- [x] ZOD
+- [x] Create a distributed system
 - [x] Github Action Auto Update README.md
 
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
@@ -38,7 +30,7 @@
    <img alt="React MUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
    <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img alt="EXPO" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+   <img alt="EXPO" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
    <img alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
    <img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
    <img alt="Express JS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -46,15 +38,18 @@
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
    <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
    <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
    <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  
+   <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+   <img alt="Prisma" src="https://img.shields.io/badge/prisma-5686BF?style=for-the-badge&logo=prisma" />
+   <img alt="Redis" src="https://img.shields.io/badge/redis-FFFFF?style=for-the-badge&logo=redis" />
+   <img alt="Nx Monorepo" src="https://img.shields.io/badge/nx-black?style=for-the-badge&logo=nx" />
+   <img alt="ShadCN UI" src="https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcnui" />
 </p>
 
 <h2 align="center">⌨️ Now I Code With:</h2>
@@ -90,6 +85,10 @@
   <img alt="AWS" src="https://img.shields.io/badge/amazon_route_53-323330?style=for-the-badge&logo=amazonroute53" />
   <img alt="AWS" src="https://img.shields.io/badge/amazon_web_services-323330?style=for-the-badge&logo=amazonwebservices" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-323330?style=for-the-badge&logo=docker" />
+  <img alt="Prisma" src="https://img.shields.io/badge/prisma-5686BF?style=for-the-badge&logo=prisma" />
+  <img alt="Redis" src="https://img.shields.io/badge/redis-FFFFF?style=for-the-badge&logo=redis" />
+  <img alt="Nx Monorepo" src="https://img.shields.io/badge/nx-black?style=for-the-badge&logo=nx" />
+  <img alt="ShadCN UI" src="https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcnui" />
 </p>
 
 <h2 align="center">🏆 My Github Trophy:</h2>
