@@ -47,7 +47,7 @@
    <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
    <img alt="Prisma" src="https://img.shields.io/badge/prisma-5686BF?style=for-the-badge&logo=prisma" />
-   <img alt="Redis" src="https://img.shields.io/badge/redis-FFFFF?style=for-the-badge&logo=redis" />
+   <img alt="Redis" src="https://img.shields.io/badge/redis-FFFFFF?style=for-the-badge&logo=redis" />
    <img alt="Nx Monorepo" src="https://img.shields.io/badge/nx-black?style=for-the-badge&logo=nx" />
    <img alt="ShadCN UI" src="https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcnui" />
 </p>
