@@ -12,9 +12,22 @@ A platform for academic operations, administration, and communication between st
 
 **Used by Hsinru Cram School (興儒補習班).** The product presentation below shows the school's HSINRU+ application.
 
-![HSINRU+ product presentation for Hsinru Cram School, an ED-PULSE customer, featuring a demo student profile](assets/hsinru-customer-showcase.png)
+<p align="center">
+  <a href="assets/hsinru/01-home.png"><img src="assets/hsinru/01-home-thumb.webp" width="196" alt="HSINRU+ home and learning overview featuring a demo student"></a>
+  <a href="assets/hsinru/02-scores.png"><img src="assets/hsinru/02-scores-thumb.webp" width="196" alt="HSINRU+ scores and learning progress featuring a demo student"></a>
+  <a href="assets/hsinru/03-attendance.png"><img src="assets/hsinru/03-attendance-thumb.webp" width="196" alt="HSINRU+ attendance record featuring a demo student"></a>
+</p>
 
-*Product interface mockup with a demo student profile. [View full-size image](assets/hsinru-customer-showcase.png).*
+<details>
+  <summary>More product views · Meal planning and chat</summary>
+
+  <p align="center">
+    <a href="assets/hsinru/04-meals.png"><img src="assets/hsinru/04-meals-thumb.webp" width="196" alt="HSINRU+ meal planning featuring a demo student"></a>
+    <a href="assets/hsinru/05-chat.png"><img src="assets/hsinru/05-chat-thumb.webp" width="196" alt="HSINRU+ parent-teacher chat featuring a demo student"></a>
+  </p>
+</details>
+
+*Customer product presentations featuring demo student profiles. Select an image to view it at full size.*
 
 ### Engineering focus
 
