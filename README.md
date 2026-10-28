@@ -1,21 +1,27 @@
 # Edison Lee
 
-**Full Stack Engineer building ED-PULSE**
+**Full Stack Engineer · Sole Developer of ED-PULSE**
 
-I turn complex education workflows into connected web and mobile experiences. My work on ED-PULSE spans user interfaces, backend APIs, data modeling, and production reliability.
+I independently designed and developed **ED-PULSE**, a complete commercial education management system spanning web, mobile, and backend services.
+
+My work covers system architecture, interface design, application development, data modeling, deployment, and ongoing maintenance.
 
 ## ED-PULSE
 
-![ED-PULSE — Education management across web, mobile, and backend](assets/ed-pulse-banner.svg)
+A multi-tenant platform connecting staff, students, and parents through academic management, communication, and administrative workflows.
 
-A multi-tenant education management platform for staff, students, and parents. It connects enrollment, scheduling, attendance, exams, tuition, meal accounting, and communication across web and mobile.
+![HSINRU+ interface presentation from ED-PULSE, showing a demo student profile](assets/ed-pulse-interface-demo.png)
+
+*HSINRU+ product interface mockup featuring a demo student profile.*
 
 ### Engineering highlights
 
-- **Tenant boundaries across the stack.** Role-aware interfaces and tenant-scoped APIs, with cache and real-time state scoped to the active user and tenant.
-- **Real-time features beyond message delivery.** Shared WebSocket connections, reconnect recovery, and cross-tab cache refresh for chat and operational views.
-- **Business workflows built for consistency.** Transactional payment updates, meal-balance ledgers, and idempotency handling for meal-record writes.
-- **Release checks that exercise the application.** Focused regression tests, production artifact checks, and HTTP startup smoke tests, with Sentry for mobile diagnostics.
+- **End-to-end product development:** Independently taking the system from architecture and interface design through implementation, deployment, and maintenance.
+- **Web and mobile applications:** Connected experiences for education operations across browsers and mobile devices.
+- **Multi-tenant capabilities:** Support for different organizations, user roles, and access requirements.
+- **Reliable business workflows:** A focus on data integrity, real-time communication, testing, and operational stability.
+
+*Source code and internal implementation details are proprietary.*
 
 ## Core stack
 
