@@ -2,28 +2,27 @@
 
 **Full Stack Engineer · Sole Developer of ED-PULSE**
 
-I independently designed and developed **ED-PULSE**, a complete commercial education management system spanning web, mobile, and backend services.
+I independently design, develop, and maintain **ED-PULSE**, a complete commercial education management platform spanning web, mobile, and backend services.
 
-My work covers system architecture, interface design, application development, data modeling, deployment, and ongoing maintenance.
+[edison@ed-pulse.com](mailto:edison@ed-pulse.com)
 
 ## ED-PULSE
 
-A multi-tenant platform connecting staff, students, and parents through academic management, communication, and administrative workflows.
+A platform for academic operations, administration, and communication between staff, students, and parents.
 
-![HSINRU+ interface presentation from ED-PULSE, showing a demo student profile](assets/ed-pulse-interface-demo.png)
+**Used by Hsinru Cram School (興儒補習班).** The product presentation below shows the school's HSINRU+ application.
 
-*HSINRU+ product interface mockup featuring a demo student profile.*
+![HSINRU+ product presentation for Hsinru Cram School, an ED-PULSE customer, featuring a demo student profile](assets/hsinru-customer-showcase.png)
 
-### Engineering highlights
+*Product interface mockup with a demo student profile. [View full-size image](assets/hsinru-customer-showcase.png).*
 
-- **End-to-end product development:** Independently taking the system from architecture and interface design through implementation, deployment, and maintenance.
-- **Web and mobile applications:** Connected experiences for education operations across browsers and mobile devices.
-- **Multi-tenant capabilities:** Support for different organizations, user roles, and access requirements.
-- **Reliable business workflows:** A focus on data integrity, real-time communication, testing, and operational stability.
+### Engineering focus
 
-*Source code and internal implementation details are proprietary.*
+- **Multi-tenant applications:** Organization-aware workflows and role-based access.
+- **Real-time communication:** Messaging and notifications across web and mobile.
+- **Production ownership:** Data integrity, regression testing, deployment, and ongoing maintenance.
 
-## Core stack
+## Tech stack
 
 | Area | Technologies |
 | --- | --- |
@@ -32,6 +31,4 @@ A multi-tenant platform connecting staff, students, and parents through academic
 | Backend | Node.js, Express, Prisma, MySQL, Redis |
 | Delivery | Docker, Google Cloud, Jest, Cypress, Sentry |
 
-## Contact
-
-[edison@ed-pulse.com](mailto:edison@ed-pulse.com)
+*Source code and internal implementation details are proprietary.*
