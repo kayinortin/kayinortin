@@ -1,22 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="210" viewBox="0 0 760 210" role="img" aria-labelledby="banner-title banner-description">
-  <title id="banner-title">ED-PULSE</title>
-  <desc id="banner-description">Education management across web, mobile, and backend. The decorative connected nodes represent the connected platform.</desc>
-  <rect width="760" height="210" rx="12" fill="#101b32"/>
-  <g fill="none" stroke="#425b83" stroke-width="2" opacity="0.55">
-    <path d="M608 40H704V105H660V170H718"/>
-    <path d="M608 105H660M608 170H660M660 40V105"/>
-  </g>
-  <g fill="#101b32" stroke="#7cafff" stroke-width="3">
-    <circle cx="608" cy="40" r="7"/>
-    <circle cx="608" cy="105" r="7"/>
-    <circle cx="608" cy="170" r="7"/>
-    <circle cx="704" cy="40" r="7"/>
-    <circle cx="660" cy="105" r="7"/>
-    <circle cx="718" cy="170" r="7"/>
-  </g>
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-    <text x="36" y="73" fill="#f1f5ff" font-size="60" font-weight="600" letter-spacing="1">ED-PULSE</text>
-    <text x="38" y="119" fill="#d8e6fb" font-size="34">Education management</text>
-    <text x="38" y="172" fill="#9dc1ff" font-size="34">Web · Mobile · Backend</text>
-  </g>
-</svg>
+# Edison Lee
+
+**Full Stack Engineer building ED-PULSE**
+
+I turn complex education workflows into connected web and mobile experiences. My work on ED-PULSE spans user interfaces, backend APIs, data modeling, and production reliability.
+
+## ED-PULSE
+
+![ED-PULSE — Education management across web, mobile, and backend](assets/ed-pulse-banner.svg)
+
+A multi-tenant education management platform for staff, students, and parents. It connects enrollment, scheduling, attendance, exams, tuition, meal accounting, and communication across web and mobile.
+
+### Engineering highlights
+
+- **Tenant boundaries across the stack.** Role-aware interfaces and tenant-scoped APIs, with cache and real-time state scoped to the active user and tenant.
+- **Real-time features beyond message delivery.** Shared WebSocket connections, reconnect recovery, and cross-tab cache refresh for chat and operational views.
+- **Business workflows built for consistency.** Transactional payment updates, meal-balance ledgers, and idempotency handling for meal-record writes.
+- **Release checks that exercise the application.** Focused regression tests, production artifact checks, and HTTP startup smoke tests, with Sentry for mobile diagnostics.
+
+## Core stack
+
+| Area | Technologies |
+| --- | --- |
+| Web | TypeScript, React, Next.js, Nx, Tailwind CSS, shadcn/ui |
+| Mobile | React Native, Expo |
+| Backend | Node.js, Express, Prisma, MySQL, Redis |
+| Delivery | Docker, Google Cloud, Jest, Cypress, Sentry |
+
+## Contact
+
+[edison@ed-pulse.com](mailto:edison@ed-pulse.com)
